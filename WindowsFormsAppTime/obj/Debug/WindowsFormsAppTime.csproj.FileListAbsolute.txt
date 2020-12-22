@@ -1,0 +1,10 @@
+D:\visual studio\project\WindowsFormsAppTime\WindowsFormsAppTime\bin\Debug\WindowsFormsAppTime.exe.config
+D:\visual studio\project\WindowsFormsAppTime\WindowsFormsAppTime\bin\Debug\WindowsFormsAppTime.exe
+D:\visual studio\project\WindowsFormsAppTime\WindowsFormsAppTime\bin\Debug\WindowsFormsAppTime.pdb
+D:\visual studio\project\WindowsFormsAppTime\WindowsFormsAppTime\obj\Debug\WindowsFormsAppTime.csprojAssemblyReference.cache
+D:\visual studio\project\WindowsFormsAppTime\WindowsFormsAppTime\obj\Debug\WindowsFormsAppTime.Form1.resources
+D:\visual studio\project\WindowsFormsAppTime\WindowsFormsAppTime\obj\Debug\WindowsFormsAppTime.Properties.Resources.resources
+D:\visual studio\project\WindowsFormsAppTime\WindowsFormsAppTime\obj\Debug\WindowsFormsAppTime.csproj.GenerateResource.cache
+D:\visual studio\project\WindowsFormsAppTime\WindowsFormsAppTime\obj\Debug\WindowsFormsAppTime.csproj.CoreCompileInputs.cache
+D:\visual studio\project\WindowsFormsAppTime\WindowsFormsAppTime\obj\Debug\WindowsFormsAppTime.exe
+D:\visual studio\project\WindowsFormsAppTime\WindowsFormsAppTime\obj\Debug\WindowsFormsAppTime.pdb
